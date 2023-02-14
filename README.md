@@ -1,3 +1,5 @@
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://Parthiba-Mukhopadhyay.io)
+
 <h3 align="center">Hi 👋, I'm Parthiba Mukhopadhyay</h3>
 <h4 align="center">A passionate software developer from India</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
