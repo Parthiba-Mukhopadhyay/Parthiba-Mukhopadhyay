@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/parthibamukhop1" target="blank"><img src="https://img.shields.io/twitter/follow/parthibamukhop1?logo=twitter&style=for-the-badge" alt="parthibamukhop1" /></a> </p>
 
-- 👋 Hello, I am Parthiba Mukhopadhyay
-
 - 🏫 I am currently a sophomore at VIT Chennai 
 
 - 🎓 I am pursuing B.Tech in CSE with specialization in AI and ML
