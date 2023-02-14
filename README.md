@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://Parthiba-Mukhopadhyay.io)
+[![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/website-clipart-internet-gif-18.gif)](https://Parthiba-Mukhopadhyay.io)
 
 <h3 align="center">Hi 👋, I'm Parthiba Mukhopadhyay</h3>
 <h4 align="center">A passionate software developer from India</h4>
