@@ -104,4 +104,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parthiba-mukhopadhyay&" alt="parthiba-mukhopadhyay" /></p>
 
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Parthiba-Mukhopadhyay&combine_all_yearly_contributions=true)
+![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=Parthiba-Mukhopadhyay&combine_all_yearly_contributions=true&limit=6)
