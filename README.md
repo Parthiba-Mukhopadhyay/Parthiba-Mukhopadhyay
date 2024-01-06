@@ -39,7 +39,7 @@
       <br>C#
     </td>
     <td align="center" width="96"> 
-        <img src="[[https://skillicons.dev/icons?i=dotnet](https://camo.githubusercontent.com/9fcd23b962db5fdfc4be49d1daedc6bbbfdcc0cca4cc25792a4be616b8bd56e6/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f726573746170692d69636f6e2e737667)](https://techstack-generator.vercel.app/ts-icon.svg)" width="48" height="48" alt="Git" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="48" height="48" alt="Git" />
     s  <br>.Net
     </td>
     <td align="center" width="96">
