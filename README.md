@@ -1,7 +1,9 @@
 [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/website-clipart-internet-gif-18.gif)](https://Parthiba-Mukhopadhyay.io)
 
 <h1 align="center">Hi 👋, I'm Parthiba Mukhopadhyay</h1>
-<h3 align="center"><span style="color: #FFD700;">"npx itsmeparthiba"</span> on your terminal to know me more</h3>
+<h2 align="center"><span style="color: #FFD700;">"npx itsmeparthiba"</span> on your terminal to know me more</h2>
+<h3>Check me out on [https://portfolio-website-tau-fawn.vercel.app](https://portfolio-website-tau-fawn.vercel.app)</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthiba-mukhopadhyay&label=Profile%20views&color=0e75b6&style=flat" alt="parthiba-mukhopadhyay" /> </p>
 
