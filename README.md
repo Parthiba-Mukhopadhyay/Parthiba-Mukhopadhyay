@@ -1,13 +1,6 @@
 [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/website-clipart-internet-gif-18.gif)](https://Parthiba-Mukhopadhyay.io)
 
-<div align="center" style="display: inline-block;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%ffffff&size=48&center=true&vCenter=true&width=1200&height=100&lines=Hi+ 👋,+I+am+Parthiba-Mukhopadhyay!" alt="Typing SVG" style="display: inline-block;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" style="display: inline-block;">
-</div>
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
-
-
+<h1 align="center">Hi 👋, I'm Parthiba Mukhopadhyay</h1>
 <h2 align="center"><span style="color: #FFD700;">"npx itsmeparthiba"</span> on your terminal to know me more</h2>
 <span align="center">Check me out on https://portfolio-website-tau-fawn.vercel.app</span>
 
